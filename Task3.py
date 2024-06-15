@@ -2,8 +2,9 @@ import time
 
 
 def main():
-    print("Sono il task 1 terminerò in 3 secondi")
-    time.sleep(3)
+    print("Sono il task 3 terminerò in 10 secondi")
+    time.sleep(10)
+
 
     print("terminato")
 
